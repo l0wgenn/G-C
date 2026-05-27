@@ -1,6 +1,6 @@
 <div align="center">
 
-# G-C (gift converter)
+# G-C (gif converter)
 
 Simple video to gif converter / Простой конвертер видео в гиф
 
