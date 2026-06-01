@@ -1,6 +1,6 @@
 <div align="center">
 
-# G-C (gif converter)
+# Giflume
 
 Simple video to gif converter / Простой конвертер видео в гиф
 
